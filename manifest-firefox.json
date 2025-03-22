@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "name": "LinkedIn Job Search Time Filter",
+  "version": "1.0",
+  "description": "Adds 30-minute and 1-hour options to LinkedIn job search time filter",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "linkedin-timefilter@example.com",
+      "strict_min_version": "57.0"
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "*://*.linkedin.com/jobs/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.linkedin.com/jobs/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+} 
