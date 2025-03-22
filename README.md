@@ -228,9 +228,12 @@ Get an edge in your job search by finding the most recently posted positions bef
 - ✅ Works entirely locally in your browser
 - ✅ Only runs on LinkedIn job search pages
 - ✅ Minimal permissions required
+- 
+## 🎯 Support Me
 
-## Support
+If you find this extension helpful, you can buy me a coffee to support my work:
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/kumarutkaro)
 Found a bug or have a suggestion? Please open an issue on our GitHub repository.
 
 ## Stay Competitive in Your Job Search
